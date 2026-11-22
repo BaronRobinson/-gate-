@@ -62,7 +62,6 @@ DEFAULT_EDGE_HOSTS = [
     "www.mfyx.cn:443",
     "cf.nyanya.moe:443",
     "cf.877774.xyz:443",
-    "csgb.cmu.us.ci:443",
     "cdn.204910.best:443",
     "cdn.ctn32.us.kg:443",
     "p.etime.vip:443",
